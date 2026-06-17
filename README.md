@@ -1,4 +1,4 @@
-### Maven Market Retail Performance Analytics Dashboard
+# Maven Market Retail Performance Analytics Dashboard
 
 
 ## Overview
@@ -27,7 +27,7 @@ Maven Market Retail Performance Analytics Dashboard is an end-to-end Business In
 
 ## Dashboard Pages
 
-1. Topline Performance
+### 1. Topline Performance
 
 Provides an executive overview of business performance through key KPIs and operational metrics.
 
@@ -44,7 +44,7 @@ Features:
 - Geographic Sales Analysis
 
 
-2. Overall Performance
+### 2. Overall Performance
 
 Analyzes company-wide sales and profitability trends.
 
@@ -61,7 +61,7 @@ Features:
 - Annual Event Revenue Impact Analysis
 
 
-3. Customer Segmentation
+### 3. Customer Segmentation
 
 Focuses on customer analytics and revenue contribution.
 
@@ -77,7 +77,7 @@ Features:
 - Transaction Analysis
 
 
-4. Business Insights
+### 4. Business Insights
 
 Highlights automatically generated business findings and recommendations.
 
