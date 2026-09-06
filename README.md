@@ -31,7 +31,7 @@ Maven Market Retail Performance Analytics Dashboard is an end-to-end Business In
 
 Provides an executive overview of business performance through key KPIs and operational metrics.
 
-![Topline Performance](screenshots/Topline%20Performance.png)
+![Topline Performance](screenshot/ToplinePerformance.png)
 
 Features:
 
