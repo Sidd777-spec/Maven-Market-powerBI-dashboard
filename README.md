@@ -48,7 +48,7 @@ Features:
 
 Analyzes company-wide sales and profitability trends.
 
-![Overall Performance](screenshots/Overall%20Performance.png)
+![Overall Performance](screenshot/OverallPerformance.png)
 
 Features:
 
@@ -65,7 +65,7 @@ Features:
 
 Focuses on customer analytics and revenue contribution.
 
-![Customer Segmentation](screenshots/Customer%20Segmentation.png)
+![Customer Segmentation](screenshot/CustomerSegmentation.png)
 
 Features:
 
@@ -81,7 +81,7 @@ Features:
 
 Highlights automatically generated business findings and recommendations.
 
-![Business Insights](screenshots/Notes.png)
+![Business Insights](screenshot/Notes.png)
 
 
 Sample Insights:
